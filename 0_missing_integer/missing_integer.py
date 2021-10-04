@@ -26,4 +26,5 @@ def missing_integer(A):
 
 
 A = [1, 9, 8, 4, 5, 3, 2, -6]
+# 6
 print(missing_integer(A))
