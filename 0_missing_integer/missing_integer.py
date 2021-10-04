@@ -29,6 +29,9 @@ def missing_integer(A):
         if i not in positive:
             missing.append(i)
 
+    if missing == []:
+        return (max(positive) + 1)
+
     return min(missing)
 
 
@@ -43,3 +46,7 @@ print(missing_integer(B))
 C = [-2, -9, -3, 0]
 # 1
 print(missing_integer(C))
+
+D = [1, 2, 3]
+# 4
+print(missing_integer(D))
