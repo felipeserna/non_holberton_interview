@@ -3,6 +3,12 @@
 Find the smallest positive integer that
 does not occur in a given sequence.
 
+Write an 'efficient' algorithm for the following assumptions:
+
+- N is an integer within the range [1..100,000];
+- each element of array A is an integer
+  within the range [−1,000,000..1,000,000].
+
 Note that the example tests are not part of your score.
 On submission at least 8 test cases not shown here will assess your solution.
 """
