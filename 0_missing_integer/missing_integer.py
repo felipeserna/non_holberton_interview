@@ -1,7 +1,10 @@
 #!/usr/bin/env python3
 """
 Find the smallest positive integer that
-does not occur in a given sequence
+does not occur in a given sequence.
+
+Note that the example tests are not part of your score.
+On submission at least 8 test cases not shown here will assess your solution.
 """
 
 
