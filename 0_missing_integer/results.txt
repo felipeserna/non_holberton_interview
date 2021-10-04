@@ -1,0 +1,12 @@
+Correctness test cases:
+Passed 5 out of 5
+
+Performance test cases:
+Passed 0 out of 4
+
+Performance describes if the program behaves correctly for large inputs.
+Points are deducted if the program exceeds the time limit on large data
+sets, which indicates a sub-optimal approach.
+
+Task score: 55 %
+Total score: 55 %
