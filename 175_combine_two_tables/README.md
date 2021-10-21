@@ -41,7 +41,8 @@ The query result format is in the following example.
 
 Example 1:
 
-Input: 
+**Input:**
+
 Person table:
 ```
 +----------+----------+-----------+
@@ -60,7 +61,7 @@ Address table:
 | 2         | 3        | Leetcode      | California |
 +-----------+----------+---------------+------------+
 ```
-Output:
+**Output:**
 ``` 
 +-----------+----------+---------------+----------+
 | FirstName | LastName | City          | State    |
@@ -69,6 +70,7 @@ Output:
 | Bob       | Alice    | New York City | New York |
 +-----------+----------+---------------+----------+
 ```
-Explanation: 
+**Explanation:**
+
 There is no address in the address table for the PersonId = 1 so we return null in their city and state.
 AddressId = 1 contains information about the address of PersonId = 2.
