@@ -3,7 +3,7 @@ LeetCode
 197. Rising Temperature
 
 Table: Weather
-
+```
 +---------------+---------+
 | Column Name   | Type    |
 +---------------+---------+
@@ -11,6 +11,7 @@ Table: Weather
 | recordDate    | date    |
 | temperature   | int     |
 +---------------+---------+
+```
 id is the primary key for this table.
 This table contains information about the temperature on a certain day.
  
